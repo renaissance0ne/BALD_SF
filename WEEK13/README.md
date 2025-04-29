@@ -1,4 +1,3 @@
-Here's an improved and professional version of your `README.md` file with clearer instructions, better formatting, and proper structure:
 
 ---
 
@@ -107,7 +106,3 @@ python manage.py runserver
 ```
 
 Then open your browser and navigate to `http://127.0.0.1:8000/`.
-
----
-
-Would you like me to generate this as a downloadable `README.md` file?
