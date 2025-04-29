@@ -1,0 +1,13 @@
+.custom-nav .nav-link {
+    margin-right: 1rem;
+  }
+  
+  .custom-fixed-top {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1030; /* Above most elements */
+    background-color: #242424; /* Match your theme */
+    padding: 0.5rem 1rem;
+  }
+  
