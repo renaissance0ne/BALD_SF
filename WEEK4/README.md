@@ -1,4 +1,3 @@
-Here’s an improved version of your instructions with corrected grammar and rephrased for clarity:
 
 ---
 
@@ -14,5 +13,3 @@ Here’s an improved version of your instructions with corrected grammar and rep
    3. Open the file directly in your browser.
 
 --- 
-
-Let me know if you'd like further adjustments!
