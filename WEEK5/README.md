@@ -11,5 +11,5 @@
    ```bash
    node index.js
    ```
-5. **View details in the database** by clicking on "+ Add new connection" button and click on Save & Connect.
+5. **View details in the database**: Open MongoDBCompass. Click on "+ Add new connection" button and then click on Save & Connect.
    On left side bar you will see your system name, click on it, then under week5 dropdown you will find the details of the users.
